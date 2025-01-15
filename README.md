@@ -3,26 +3,50 @@
 This project collects some interesting online games, including space shooters and puzzle games of different genres.
 
 ## Game List
+Here’s the updated README in English with the two new products included:
 
-### 1. Gar-Type
-- **Game Type**: Space Shooter Adventure
-- **Website**: [https://www.gar-type.online/](https://www.gar-type.online/)
-- **Features**:
-  - Stunning space combat scenes
-  - Diverse weapon systems
-  - Challenging level design
-  - Engaging space adventure storyline
-  - Impressive visual effects
+---
 
-### 2. Sketchy Individuals
-- **Game Type**: Puzzle Mystery Game
-- **Website**: [https://www.sketchyindividuals.online/](https://www.sketchyindividuals.online/)
-- **Solution Guide**: [Guide Link](https://www.sketchyindividuals.online/en/answer)
-- **Features**:
-  - Unique gameplay mechanics
-  - Requires keen observation
-  - Challenging puzzle design
-  - Detailed solution guide available
+## Game and Products
+
+### 1. Gar-Type  
+**Game Type**: Space Shooter Adventure  
+**Website**: [https://www.gar-type.online/](https://www.gar-type.online/)  
+**Features**:  
+- Stunning space combat scenes  
+- Diverse weapon systems  
+- Challenging level design  
+- Engaging space adventure storyline  
+- Impressive visual effects  
+
+### 2. Sketchy Individuals  
+**Game Type**: Puzzle Mystery Game  
+**Website**: [https://www.sketchyindividuals.online/](https://www.sketchyindividuals.online/)  
+**Solution Guide**: [Guide Link]  
+**Features**:  
+- Unique gameplay mechanics  
+- Requires keen observation  
+- Challenging puzzle design  
+- Detailed solution guide available  
+
+### 3. RedNote  
+**Game Type**: Music Note Collection Adventure  
+**Website**: [https://www.rednote.website/](https://www.rednote.website/)  
+**Features**:  
+- Explore a vibrant world and collect music notes  
+- Direct download link available on the website  
+- Frequently Asked Questions (FAQs) section, including how to obtain a RedNote code  
+
+### 4. Baby PhotoShoot  
+**Product Type**: Free AI Baby Photo Album Generator  
+**Website**: [https://www.babyphotoshoot.online/](https://www.babyphotoshoot.online/)  
+**Features**:  
+- Generate baby photo albums online for free  
+- Powered by advanced AI technology  
+
+---  
+
+Let me know if you need further changes!
 
 ## Local Setup Instructions
 
